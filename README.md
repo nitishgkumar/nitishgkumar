@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitishgkumar
 - 👀 I’m interested in android developement 
 - 🌱 I’m currently learning kotilin 
-- 💞️ I’m looking to collaborate on starup
+- 💞️ I’m looking to collaborate on start - up
 - 📫 How to reach me ...
 
 <!---
